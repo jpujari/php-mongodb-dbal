@@ -1,7 +1,7 @@
 # php-mongodb-dbal
 A Simple DBAL for mongodb using the latest php mongodb driver
 
-REQUIREMENTS
+<b>REQUIREMENTS</b>
 
 You need to install the php mongodb driver
 
@@ -13,7 +13,7 @@ extension=mongodb.so
 
 Check phpinfo() to make sure the mongodb extension is enabled
 
-TROUBLESHOOTING
+<b>TROUBLESHOOTING</b>
 
 if you come across errors during the mongodb install
 
