@@ -1,0 +1,13 @@
+{
+    "name": "jpujari/php-mongodb-dbal",
+    "description": "A simple DBAL for mongodb using the latest php mongodb driver",
+    "require": {
+        "mongodb/mongodb": "^1.0.0"
+    },
+    "authors": [
+        {
+            "name": "Jeetendra Pujari",
+            "email": "jitupujari@gmail.com"
+        }
+    ]
+}
