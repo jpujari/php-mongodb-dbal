@@ -20,6 +20,7 @@ if you come across errors during the mongodb install
 run the following commands
 
 apt-get install php-pear php5-dev -y
+
 apt-get install -y autoconf g++ make openssl libssl-dev libcurl4-openssl-dev pkg-config libsasl2-dev libpcre3-dev
 
 
